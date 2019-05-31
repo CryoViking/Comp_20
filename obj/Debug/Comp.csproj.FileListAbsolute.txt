@@ -1,0 +1,7 @@
+C:\Users\nathan\source\repos\Comp\Comp\bin\Debug\Comp.exe.config
+C:\Users\nathan\source\repos\Comp\Comp\bin\Debug\Comp.exe
+C:\Users\nathan\source\repos\Comp\Comp\bin\Debug\Comp.pdb
+C:\Users\nathan\source\repos\Comp\Comp\obj\Debug\Comp.csprojAssemblyReference.cache
+C:\Users\nathan\source\repos\Comp\Comp\obj\Debug\Comp.csproj.CoreCompileInputs.cache
+C:\Users\nathan\source\repos\Comp\Comp\obj\Debug\Comp.exe
+C:\Users\nathan\source\repos\Comp\Comp\obj\Debug\Comp.pdb
